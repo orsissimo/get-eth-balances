@@ -2,5 +2,5 @@
 *
 
 # But not script.py
-!get_eth.py
+!main.py
 !.gitignore
