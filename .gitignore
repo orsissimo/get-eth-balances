@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But not script.py
+!get_eth.py
+!.gitignore
